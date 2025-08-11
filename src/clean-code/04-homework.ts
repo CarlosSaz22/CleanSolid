@@ -51,7 +51,6 @@
         return 'Working properly!';
     }
 
-
     // isRedFruit
     console.log({ isRedFruit: isRedFruit('cereza'), fruit: 'cereza' }); // true
     console.log({ isRedFruit: isRedFruit('piña'), fruit: 'piña' }); // true
